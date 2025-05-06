@@ -1,0 +1,14 @@
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/bin/Debug/net9.0/ScreamSound
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/bin/Debug/net9.0/ScreamSound.deps.json
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/bin/Debug/net9.0/ScreamSound.runtimeconfig.json
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/bin/Debug/net9.0/ScreamSound.dll
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/bin/Debug/net9.0/ScreamSound.pdb
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.AssemblyInfoInputs.cache
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.AssemblyInfo.cs
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.csproj.CoreCompileInputs.cache
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.dll
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/refint/ScreamSound.dll
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.pdb
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ScreamSound.genruntimeconfig.cache
+/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/Debug/net9.0/ref/ScreamSound.dll
