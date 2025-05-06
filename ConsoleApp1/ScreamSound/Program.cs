@@ -1,6 +1,4 @@
-﻿// Backend SoundScream
-
-List<string> listaDeBandas = new List<string>{"Calypson", "Mamonas Assasinas", "U2"};
+﻿List<string> listaDeBandas = new List<string>{"Calypson", "Mamonas Assasinas", "U2"};
 
 string nomeApp = "𝙏𝙪𝙣𝙚𝙁𝙡𝙤𝙬";
 string msgBoasVindas = $"{nomeApp} \n Bem vindo! ♫ ♪ ♫ (¯`◕‿◕´¯)ღ";
@@ -50,7 +48,7 @@ void RegistrarBanda()
     string nomeBanda = Console.ReadLine();
     listaDeBandas.Add(nomeBanda);
     Console.WriteLine($"A banda {nomeBanda} foi adicionada com Sucesso!");
-    Thread.Sleep(2000);
+    Thread.Sleep(1500);
     Console.Clear();
     msgInicial();
     exibirMenu();

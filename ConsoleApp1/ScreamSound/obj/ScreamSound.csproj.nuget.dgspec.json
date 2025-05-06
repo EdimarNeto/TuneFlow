@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/ScreamSound.csproj": {}
+    "/home/edi/RiderProjects/TuneFlow/ConsoleApp1/ScreamSound/ScreamSound.csproj": {}
   },
   "projects": {
-    "/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/ScreamSound.csproj": {
+    "/home/edi/RiderProjects/TuneFlow/ConsoleApp1/ScreamSound/ScreamSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/ScreamSound.csproj",
+        "projectUniqueName": "/home/edi/RiderProjects/TuneFlow/ConsoleApp1/ScreamSound/ScreamSound.csproj",
         "projectName": "ScreamSound",
-        "projectPath": "/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/ScreamSound.csproj",
+        "projectPath": "/home/edi/RiderProjects/TuneFlow/ConsoleApp1/ScreamSound/ScreamSound.csproj",
         "packagesPath": "/home/edi/.nuget/packages/",
-        "outputPath": "/home/edi/Documentos/estudos/C#/ConsoleApp1/ScreamSound/obj/",
+        "outputPath": "/home/edi/RiderProjects/TuneFlow/ConsoleApp1/ScreamSound/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/edi/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreamSound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea76ac1552f368e63ed44d0c295cf5757539b7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f07ff870226064f524542c80c48c402beafcd7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreamSound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreamSound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
